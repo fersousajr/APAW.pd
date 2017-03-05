@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class ReferencesFactoryTest {
     private ReferencesFactory factory;
-
+  
     @Before
     public void before() {
         factory = new ReferencesFactory();
